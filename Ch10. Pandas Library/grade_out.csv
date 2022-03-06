@@ -1,0 +1,8 @@
+Name,Math,Physics,Gender,Class,Python,C++
+Charley,90.0,86.0,M,1,,
+Jessica,85.0,90.0,F,1,,
+Anna,72.0,83.0,F,1,,
+Ted,92.0,,M,2,65.0,
+Jane,68.0,,F,2,88.0,
+John,,59.0,M,3,,83.0
+Olivia,,64.0,F,3,,71.0
